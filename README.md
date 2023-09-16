@@ -1,2 +1,5 @@
 # hello-world
-creating a repository
+---
+*a long journey ahead*
+---
+**bold me**
